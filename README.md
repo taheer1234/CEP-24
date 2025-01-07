@@ -1,0 +1,1 @@
+This repository contains a Python implementation of a genetic algorithm to solve a maze by finding the optimal path. Developed as part of my Computer Programming Tools course at UET Lahore, it showcases the power of evolutionary algorithms for pathfinding challenges.
